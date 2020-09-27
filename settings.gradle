@@ -1,0 +1,2 @@
+include ':app', ':taskone_listofapps', ':module_orientation'
+rootProject.name='My Application'
